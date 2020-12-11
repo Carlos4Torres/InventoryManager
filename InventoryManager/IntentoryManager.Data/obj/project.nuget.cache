@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ai4TTqeO89K9SnO6Cm2cJfrwi5o7pMUiyvmnmCzz2xxPDj1AcK5f0POQRlQ/TP1hn2fMBHoH9hRwa2suypgEqg==",
+  "success": true,
+  "projectFilePath": "E:\\School\\Fall 2020\\Tools and Plugins\\Builder Files\\InventoryManager\\InventoryManager-master\\InventoryManager-master\\InventoryManager\\IntentoryManager.Data\\IntentoryManager.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\co827967\\.nuget\\packages\\fody\\6.0.0\\fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\co827967\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\co827967\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\co827967\\.nuget\\packages\\propertychanged.fody\\3.1.3\\propertychanged.fody.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
